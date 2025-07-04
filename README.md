@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I’m Huy (a.k.a @cx48)
+# 👋 Hi, I’m Huy (a.k.a @bosshie)
 
 I’m a full-stack developer specializing in JavaScript, Go, and building powerful automations with n8n.
 
@@ -12,12 +12,12 @@ I’m a full-stack developer specializing in JavaScript, Go, and building powerf
 ## 🚀 Projects
 
 - 🏗️ [Tocon.org](https://tocon.org) – SME digital transformation platform
-- ⚡ [n8n-templates](https://github.com/cx48/n8n-templates) – A growing collection of automation templates
-- 📦 [Hugo starter](https://github.com/cx48/hugo-starter) – Clean and fast Hugo starter with TailwindCSS
+- ⚡ [n8n-templates](https://github.com/bosshie/n8n-templates) – A growing collection of automation templates
+- 📦 [Hugo starter](https://github.com/bosshie/hugo-starter) – Clean and fast Hugo starter with TailwindCSS
 - 
 ## 📊 GitHub Stats
 
-![Huy Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cx48&show_icons=true&theme=radical)
+![Huy Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosshie&show_icons=true&theme=radical)
 
 ## 🧰 Tech Stack
 
