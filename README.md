@@ -12,16 +12,21 @@ I’m a full-stack developer specializing in JavaScript, Go, and building powerf
 ## 🚀 Projects
 
 - 🏗️ [Tocon.org](https://tocon.org) – SME digital transformation platform
+- 📦 [Obsucation Directory Java-script Code](https://github.com/bosshie/obfuscation) – Obfuscation a directory with Node.js Code
+<!--
 - ⚡ [n8n-templates](https://github.com/bosshie/n8n-templates) – A growing collection of automation templates
 - 📦 [Hugo starter](https://github.com/bosshie/hugo-starter) – Clean and fast Hugo starter with TailwindCSS
-- 
+-->
+<!--
 ## 📊 GitHub Stats
 
 ![Huy Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosshie&show_icons=true&theme=radical)
+-->
 
 ## 🧰 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Node.js-339933?logo=next.js&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-ef8236?logo=n8n&logoColor=white)
 ![Hugo](https://img.shields.io/badge/-Hugo-ff4088?logo=hugo&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06b6d4?logo=tailwindcss&logoColor=white)
