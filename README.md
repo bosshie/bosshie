@@ -26,7 +26,7 @@ I’m a full-stack developer specializing in JavaScript, Go, and building powerf
 ## 🧰 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Node.js-339933?logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-ef8236?logo=n8n&logoColor=white)
 ![Hugo](https://img.shields.io/badge/-Hugo-ff4088?logo=hugo&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06b6d4?logo=tailwindcss&logoColor=white)
