@@ -41,8 +41,8 @@ I’m a full-stack developer specializing in JavaScript, Go, and building powerf
 - ⚡ [n8n-templates](https://github.com/bosshie/n8n-templates) – A growing collection of automation templates
 - 📦 [Hugo starter](https://github.com/bosshie/hugo-starter) – Clean and fast Hugo starter with TailwindCSS
 -->
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats  
+[![GitHub Streak](https://streak-stats.demolab.com?user=bosshie&theme=radical&border_radius=16&card_width=680&card_height=200&background=-45%2C1C258F%2CAB0191)](https://git.io/streak-stats)
 ![Huy Vu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bosshie&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bosshie&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bosshie&theme=radical)
