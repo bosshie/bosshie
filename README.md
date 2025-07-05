@@ -21,7 +21,7 @@ I’m a full-stack developer specializing in JavaScript, Go, and building powerf
 
 ![Huy Vu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bosshie&theme=2077)
 
-![Huy Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosshie&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=bosshie&show_icons=true&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github)
 
 <!--
 -->
